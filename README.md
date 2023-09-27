@@ -11,6 +11,9 @@ I built an application that allows a user to choose from a variety of meal types
 A person can fork this repository and copy the SSH location to paste in their console. With a copy of the SSH a person just needs to run git clone "SSH copy", and then cd into the new files.  After moving into the cloned files the final step is to run open index.html for the browser to open and allow access to the app.  
 
 ### Preview of App:
+
+The site is live at https://butlertree.github.io/whats-for-dinner/
+
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
 The screen shot shows the selection of a meal that pulls from all of the three catagories.  This image also displays the challenge of removing a SVG image and replacing it with the display of the entire meal.  
 
